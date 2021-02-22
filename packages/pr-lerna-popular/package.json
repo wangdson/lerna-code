@@ -1,6 +1,6 @@
 {
   "name": "pr-lerna-popular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,6 @@
   "dependencies": {
     "axios": "^0.21.1",
     "pr-lerna-core": "^1.0.0"
-  }
+  },
+  "gitHead": "12b3385f13c097d24bcc0c5df5975d9b484e4625"
 }
