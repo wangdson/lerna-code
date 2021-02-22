@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "pr-lerna-core": "^1.0.0"
+    "pr-lerna-core": "^1.0.1"
   },
   "gitHead": "12b3385f13c097d24bcc0c5df5975d9b484e4625"
 }
